@@ -1,6 +1,7 @@
 # AI-course
 AI-course Elements of AI 2
-
+## Summary
+This is a description or idea of a AI application usin gneural network approach to identify drugs to be used for other than intended use.
 
 ## Bckground
 AI techniques can analyze large-scale biomedical data to identify existing drugs that may have therapeutic potential for different diseases than originally intended. By reusing allreaddy approved drugs for new indications AI might accelerates the drug application discovery.
